@@ -64,7 +64,7 @@ angular.module('crudApp').factory('RoomService',
             function getRoom(id) {
                 console.log('getRoom Room with id :'+id);
                 var deferred = $q.defer();
-                $http.get(urls.ROOM_SERVICE_API + id)
+                $http.get(urls.GET_ROOM_BY_ID_API + id)
                     .then(
                         function (response) {
                             console.log('Fetched successfully Room with id :'+id);
@@ -99,11 +99,11 @@ angular.module('crudApp').factory('RoomService',
             function updateRoom(room, id) {
                 console.log('updateRoom with id '+id);
                 var deferred = $q.defer();
-                $http.put(urls.ROOM_SERVICE_API + id, room)
+                $http.put(urls.UPDATE_ROOM_BY_ID_API + id, room)
                     .then(
                         function (response) {
                             //loadAllRooms();
-                        	getAllRoomsByBuildingId(room.building_id);
+                        	getAllRoomsByBuildingId(room.building_id.id);
                             deferred.resolve(response.data);
                         },
                         function (errResponse) {

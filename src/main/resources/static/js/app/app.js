@@ -8,6 +8,8 @@ app.constant('urls', {
     GET_BUILDING_BY_ID_API : 'http://localhost:8088/SpringBootCRUDApp/building/getBuilding/',
     ROOM_SERVICE_API : 'http://localhost:8088/SpringBootCRUDApp/room/createRoom/',
     ROOM_LIST_SERVICE_API : 'http://localhost:8088/SpringBootCRUDApp/room/listall/',
+    GET_ROOM_BY_ID_API : 'http://localhost:8088/SpringBootCRUDApp/room/listbyid/',
+    UPDATE_ROOM_BY_ID_API : 'http://localhost:8088/SpringBootCRUDApp/room/updateRoom/',
     ROOM_LIST_BY_BUILDING_SERVICE_API : 'http://localhost:8088/SpringBootCRUDApp/room/listRoomsByBuildingId/'
 
 });

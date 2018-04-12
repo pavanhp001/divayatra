@@ -181,7 +181,7 @@ angular.module('crudApp').controller('RoomController',
                     self.room = Room;
                 },
                 function (errResponse) {
-                    console.error('Error while removing Room ' + id + ', Error :' + errResponse.data);
+                    console.error('Error while editRoom Room ' + id + ', Error :' + errResponse.data);
                 }
             );
         }
