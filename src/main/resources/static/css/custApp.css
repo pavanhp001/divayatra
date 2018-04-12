@@ -1,0 +1,68 @@
+ .expholder1 {
+	height: 69px;
+	width: 987px;
+	z-index: 9999;
+	margin-left: 50px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: #dfdfdf;
+}
+input {
+	color: #666;
+	font-family: inherit;
+	font-size: 12px;
+	height: 26px;
+	line-height: 26px;
+	margin: 0;
+	padding-left: 4px;
+	border: solid #ccc 1px;
+}
+.resWidgetContainer {
+	margin-left: -171px;
+}
+
+.floating-box-date {
+	display: inline-block;
+	width: 94px;
+	height: 44px;
+	margin: 3px;
+}
+body {
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 12px;
+	color: #54585a;
+}
+element {
+	background: rgb(255, 255, 255) url("../images/bg-icn-calendar.gif") no-repeat scroll 0px 7px;
+	width: 88px;
+}
+.floating-box2 {
+	display: inline-block;
+	width: 86px;
+	height: 40px;
+	margin: 3px;
+}
+
+.floating-box1 {
+	display: inline-block;
+	width: 188px;
+	height: 40px;
+	margin-top: 13px;
+	margin-right: 3px;
+	margin-bottom: 3px;
+	margin-left: 19px;
+}
+.cssButtonGo {
+	background-color: #69ba49;
+	text-transform: lowercase;
+	color: #fff;
+	font-size: 17px !important;
+	font-weight: bold;
+	line-height: 26px;
+	height: 45px !important;
+	width: 67px !important;
+	text-align: center;
+	border-radius: 3px;
+	font-family: sans-serif;
+	cursor: pointer;
+}

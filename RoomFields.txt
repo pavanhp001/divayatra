@@ -1,0 +1,32 @@
+Walk In / Reservation:
+
+Guest Information:
+
+Name  
+Address
+
+Stay Information:
+================
+
+Rooms 
+Arrival  data time
+Departure Date time
+Nights Integer
+Adults 
+Child 
+Reservation Type:
+
+Contact Information:
+Email:
+Phone:
+Mobile:
+Fax:
+
+Other Information:
+==================
+
+Identity:
+Nationality
+Gender:
+
+

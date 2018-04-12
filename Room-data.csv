@@ -1,0 +1,8 @@
+"id"	"PRICEPER_DAY"	"ROOM_IMG_PATH"	"ROOM_NO"	"ROOM_TYPE"	"BUILDING_ID"	"ISACTIVE"
+"1"	"2000"	"1B-VMD-AC-4"	"1B"	"AC"	"2"	\N
+"2"	"2000"	"1B-VMD-AC-4"	"2B"	"AC"	"2"	\N
+"3"	"2000"	"1B-VMD-AC-4"	"3B"	"AC"	"2"	\N
+"4"	"2000"	"1B-VMD-AC-4"	"4B"	"AC"	"2"	\N
+"5"	"111"	"/9/9-23f"	"9-23f"	"AC"	"9"	\N
+"6"	"200"	"/48/48-1B"	"48-1B"	"AC"	"48"	\N
+"7"	"300"	"/48/48-1C"	"48-1C"	"AC"	"48"	\N

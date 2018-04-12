@@ -1,0 +1,88 @@
+Hibernate: 
+    alter table CUSTOMER 
+        drop 
+        foreign key FK9u7al41tclax2d6dvq99i5y97
+Hibernate: 
+    alter table ROOM 
+        drop 
+        foreign key FKh5crfbjsyima4ttso05btspqs
+Hibernate: 
+    drop table if exists APP_USER
+Hibernate: 
+    drop table if exists BUILDING
+Hibernate: 
+    drop table if exists CUSTOMER
+Hibernate: 
+    drop table if exists ROOM
+Hibernate: 
+    create table APP_USER (
+        id bigint not null auto_increment,
+        AGE integer not null,
+        NAME varchar(255) not null,
+        SALARY double precision not null,
+        primary key (id)
+    )
+Hibernate: 
+    create table BUILDING (
+        id bigint not null auto_increment,
+        ADDR_CITY varchar(20),
+        ADDR_COUNTRY varchar(20),
+        ADDR_DIST varchar(20),
+        ADDR_NO varchar(10),
+        ADDR_STATE varchar(20),
+        BUILDING_IMG_PATH varchar(255),
+        BUILDING_NAME varchar(50) not null,
+        COMMENT varchar(255),
+        DESTENCE_FROM_TEMPLE float,
+        NEAR_TEMPLE varchar(50),
+        PARKING_LOT varchar(1),
+        primary key (id)
+    )
+Hibernate: 
+    create table CUSTOMER (
+        id bigint not null auto_increment,
+        ARRIVE_DATE datetime,
+        CAR_NO varchar(10),
+        DAYS integer,
+        EMAIL varchar(30),
+        EMERGENCY_CONTACT_NO varchar(20),
+        FIRST_NAME varchar(20),
+        GENDER varchar(1),
+        HAVE_CAR varchar(1),
+        LAST_NAME varchar(20),
+        PHONE_NO varchar(20),
+        room_id bigint not null,
+        primary key (id)
+    )
+Hibernate: 
+    create table ROOM (
+        id bigint not null auto_increment,
+        PRICEPER_DAY double precision,
+        ROOM_IMG_PATH varchar(255),
+        ROOM_NO varchar(255) not null,
+        ROOM_TYPE varchar(255) not null,
+        BUILDING_ID bigint not null,
+        primary key (id)
+    )
+Hibernate: 
+    alter table ROOM 
+        add constraint UK_qc4sh33vgh9ef4thmwpo3ngbk unique (ROOM_NO)
+Hibernate: 
+    alter table CUSTOMER 
+        add constraint FK9u7al41tclax2d6dvq99i5y97 
+        foreign key (room_id) 
+        references ROOM (id)
+Hibernate: 
+    alter table ROOM 
+        add constraint FKh5crfbjsyima4ttso05btspqs 
+        foreign key (BUILDING_ID) 
+        references BUILDING (id)
+        
+http://localhost:8088/SpringBootCRUDApp/building/createBuilding/        
+{"building_name":"kamala resid3", "near_temple":"rajanna", "destence_from_temple":1.2, "addr_no":"1-23-4", "addr_city":"vemulawada", "addr_dist":"siricilla", "addr_state":"telangana", "addr_country":"india", "parking_lot":"Y", "building_img_path":"100-src-vmd-1","comment":"this is the good room to stay for more than one week"}
+
+http://localhost:8088/SpringBootCRUDApp/room/createRoom/
+{"room_type":"AC", "room_no":"4B", "priceper_day":"2000", "room_img_path":"1B-VMD-AC-4", "building_id":{"id":2, "building_name":"kamala resid3", "near_temple":"rajanna", "destence_from_temple":1.2, "addr_no":"1-23-4", "addr_city":"vemulawada", "addr_dist":"siricilla", "addr_state":"telangana", "addr_country":"india", "parking_lot":"Y", "building_img_path":"100-src-vmd-1","comment":"this is the good room to stay for more than one week"}}
+
+
+        

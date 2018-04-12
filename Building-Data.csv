@@ -1,0 +1,49 @@
+"id"	"ADDR_CITY"	"ADDR_COUNTRY"	"ADDR_DIST"	"ADDR_NO"	"ADDR_STATE"	"BUILDING_IMG_PATH"	"BUILDING_NAME"	"COMMENT"	"DESTENCE_FROM_TEMPLE"	"NEAR_TEMPLE"	"PARKING_LOT"
+"1"	"vemulawada"	"india"	"siricilla"	"1-23-4"	"telangana"	"100-src-vmd-1"	"kamala resid1"	"this is the good room to stay for more than one week"	"1.2"	"rajanna"	"Y"
+"2"	"vemulawada"	"india"	"siricilla"	"1-23-4"	"telangana"	"100-src-vmd-1"	"kamala resid2"	"this is the good room to stay for more than one week"	"1.2"	"rajanna"	"Y"
+"3"	"vemulawada"	"india"	"siricilla"	"1-23-4"	"telangana"	"100-src-vmd-1"	"kamala resid3"	"this is the good room to stay for more than one week"	"1.2"	"rajanna"	"Y"
+"4"	"jhgj"	"hgjh"	"hgj"	"hghg"	"jhgj"	\N	"saaaaasd"	"fdgvds dfg sdgf sdgds g dsg dsf g"	"67"	"kjgjhg"	\N
+"5"	"vemulawada"	"India"	"karimnagar"	"1-3-23"	"Telangana"	"vemulawada_1-3-23_sdf"	"sdf"	"India is my country all indians are my brothers and sisters"	"34"	"sdfsad"	\N
+"6"	"hgjhg"	"vvzx"	"hgjhg"	"1-2-4"	"jhg"	"hgjhg_1-2-4_kamala_residency"	"kamala residency"	"jkhkshdf mnb"	"23"	"rajanna"	"N"
+"7"	"tirupati"	"india"	"karimnager"	"1-2-34"	"Telangana"	"tirupati_1-2-34_test_sdf_sdfas_dfgds"	"test sdf sdfas dfgds"	"sdfsadf sadf sf fsa f sdf dsf saf sdf sdf saf sdf saf sf sf sf sf saf sf sf sf saf safd fs adf dsaf saf"	"1.3"	"sdff"	\N
+"8"	"hyderabad"	"India"	"sd"	"1-2-2"	"telangana"	"hyderabad_1-2-2_saf_sadf_asdf_asdf_sadf"	"saf sadf asdf asdf sadf"	"dsffsd"	"1.4"	"rajanaa"	\N
+"9"	"vemulawada"	"India"	"karimnagar"	"1-2-3"	"Telangana"	"vemulawada_1-2-3_sdflsfdelangana"	"sdflsfdelangana"	"sdfs sadf sad fs df"	"1.2"	"sdfkl"	\N
+"10"	"jhkJHKH"	"kjh"	"kjhk"	"1-1-23"	"jhkh"	"jhkJHKH_1-1-23_sadfnkj"	"sadfnkj"	"kjhkj"	"12"	"kjhkj"	\N
+"11"	"kjklj"	"jlkj"	"kjlkj"	"kjklj"	"jlkj"	"kjklj_kjklj_sdfhhgj"	"sdfhhgj"	"skjadfhkhaskf"	"45"	"jhkhk"	\N
+"12"	"jhgjhg"	"jhgjhg"	"jgjhgj"	"1-3-5-6"	"jhgjg"	"jhgjhg_1-3-5-6_fsdalkjfl"	"fsdalkjfl"	"jhdkjshgkhdk"	"23"	"jshdkjf"	\N
+"13"	"jkhkh"	"jhk"	"kjhkjh"	"1-2-3"	"hkjhk"	"jkhkh_1-2-3_sfghg"	"sfghg"	"kjdhfkghksd"	"23"	"gjgj"	\N
+"14"	"kjhkhk"	"hkjhkh"	"kjhkjhk"	"1-2-3-4"	"kjhkhk"	"kjhkhk_1-2-3-4_sjkdlgjsdlkjgl"	"sjkdlgjsdlkjgl"	"asdkhgfskahk f hkfhaskfksf k"	"12"	"khkjhk"	\N
+"15"	"hkhk"	"khk"	"khkjh"	"hkjhkj"	"khkjh"	"hkhk_hkjhkj_ioitueoi"	"ioitueoi"	"kjhksdhgkhs"	"23"	"iiuyiyiy"	\N
+"16"	"mbmbmbM"	"KHKJH"	"JKJH"	"1-2-3"	"JHKJH"	"mbmbmbM_1-2-3_jkhkjshskdhgk"	"jkhkjshskdhgk"	"JKDFGKS"	"12"	"hkjh"	\N
+"17"	"hkjhk"	"hk"	"hkhk"	"jhfdskj"	"hk"	"hkjhk_jhfdskj_fdskhf"	"fdskhf"	"kjdsfhkhf"	"121"	"jkhkdsjh"	\N
+"18"	"gjgjhg"	"gjhgjhgj"	"jgjhg"	"hgjhgj"	"jgjgjh"	"gjgjhg_hgjhgj_xjvkj"	"xjvkj"	"jgjgjhgjgjh"	"32"	"jgjg"	\N
+"19"	"gjhgjh"	"gjhg"	"gjgjg"	"hjgj"	"jgj"	"gjhgjh_hjgj_sdjafjg"	"sdjafjg"	"jhgjghj"	"23"	"hjgj"	\N
+"20"	"nkjkjhk"	"hkjhkj"	"hkjhk"	"hkj"	"khkjhkj"	"nkjkjhk_hkj_skjfhdskjhg"	"skjfhdskjhg"	"hsdgs"	"45"	"jhkh"	\N
+"21"	"gjhgj"	"jhj"	"hgjhg"	"1-2-3"	"jhgjhg"	"gjhgj_1-2-3_kjdfhgk"	"kjdfhgk"	"gj"	"23"	"jhkhk"	\N
+"22"	"GJGJH"	"JGJ"	"JHGJH"	"HGJHG"	"GJHG"	"GJGJH_HGJHG_jdfgjb"	"jdfgjb"	"bdfmghsdkjhgsd"	"12"	"bmbHGG"	\N
+"23"	"jgjg"	"jhgjh"	"jhgjh"	"ghg"	"gjhg"	"jgjg_ghg_skdh"	"skdh"	"gjgj"	"23"	"h"	\N
+"24"	"jhgj"	"hgj"	"gjhg"	"hgjhg"	"jgj"	"jhgj_hgjhg_hfdj"	"hfdj"	"jhjhg"	"12"	"gjjgj"	\N
+"25"	"jhkh"	"hk"	"kjhk"	"jhkh"	"hkhk"	"jhkh_jhkh_dshfjhid"	"dshfjhid"	"hkjkjhk"	"13"	"uhuiu"	\N
+"26"	"gjh"	"gjh"	"gjhg"	"hbhjh"	"jgj"	"gjh_hbhjh_jkhgkjhfd"	"jkhgkjhfd"	"fd"	"22"	"hkdkfjghkj"	\N
+"27"	"kjhkjh"	"jhhj"	"kjhk"	"jhkjh"	"jhkjh"	"kjhkjh_jhkjh_jkjhkjh"	"jkjhkjh"	"jhgjgjg"	"12"	"khkhkh"	\N
+"28"	"khjkhk"	"kh"	"hkh"	"hkjhkh"	"khkh"	"khjkhk_hkjhkh_jhkjhk"	"jhkjhk"	"khhkhkjhkj"	"76"	"hjkhkjh"	\N
+"29"	"chandurthi"	"India"	"karimnagar"	"1-2-3-4"	"Telangana"	"chandurthi_1-2-3-4_ganesh_hotel"	"ganesh hotel"	"ksdgsdj"	"1.2"	"ganesh"	\N
+"30"	"jhgjg"	"jhgjg"	"hgjhg"	"hgjhg"	"jjhgj"	"jhgjg_hgjhg_PAVANHJ"	"PAVANHJ"	"djfhskfh"	"12"	"jhgjhg"	\N
+"31"	"gjhgj"	"jgjg"	"gjhg"	"gjhg"	"jhgj"	"gjhgj_gjhg_test"	"test"	"kdghsdkgh"	"7"	"jknjk"	\N
+"32"	"jhk"	"hk"	"hkhk"	"hkjh"	"hkhk"	"jhk_hkjh_test21"	"test21"	"jhkhkhk"	"23"	"g"	\N
+"33"	"ghhjgfjhg"	"jgjh"	"hjgjgj"	"1-2-3"	"jgjgj"	"ghhjgfjhg_1-2-3_Test235"	"Test235"	"asdfkjhasf"	"12"	"fdhsak"	\N
+"34"	"kjhkj"	"kjh"	"hkjh"	"jhkjh"	"kjh"	"kjhkj_jhkjh_test121"	"test121"	"kjhkhkjh"	"12"	"dfg"	\N
+"35"	"jdkjgk"	"jhg"	"gjh"	"1-2-3"	"gjhg"	"jdkjgk_1-2-3_sai_apartment"	"sai apartment"	"dkufgkhds"	"35"	"sdjj"	\N
+"36"	"h"	"jhk"	"jhkj"	"khk"	"jkhjk"	"h_khk_test45"	"test45"	"hgjhgjhgjg"	"12"	"jhkjh"	\N
+"37"	"hbjhb"	"bj"	"jbj"	"hbh"	"bjh"	"hbjhb_hbh_te54"	"te54"	"bhbjb"	"78"	"hjkh"	\N
+"38"	"hkh"	"khk"	"khkh"	"jhkjhk"	"kh"	"hkh_jhkjhk_yewury7"	"yewury7"	"khkh"	"98"	"hui"	\N
+"39"	"kjk"	"kh"	"hk"	"n,j"	"hkh"	"kjk_n,j_jsdfn5jk"	"jsdfn5jk"	"hkhk"	"98"	"hkh"	\N
+"40"	"kgjhg"	"gj"	"jhgjg"	"kjh"	"jgj"	"kgjhg_kjh_dxnf4jh"	"dxnf4jh"	"jhgjg"	"99"	"hkhg"	\N
+"41"	"uguy"	"gu"	"guu"	"yguyg"	"gu"	"uguy_yguyg_kdfhg"	"kdfhg"	"gug"	"2"	"gyg"	\N
+"42"	"jgj"	"jgjhg"	"gjg"	"hgjg"	"jgjg"	"jgj_hgjg_as45"	"as45"	"jsdhkfhs"	"12"	"gjhgjh"	\N
+"43"	"gj"	"gjg"	"gjg"	"hgjhg"	"jgj"	"gj_hgjhg_gjgjjj"	"gjgjjj"	"gjj"	"9"	"gjgj"	\N
+"44"	"gjh"	"jgj"	"gjhg"	"jjkg"	"jg"	"gjh_jjkg_sajdhfk"	"sajdhfk"	"dkghdkhg"	"23"	"jdhgk"	\N
+"45"	"jhgjg"	"jhgjhg"	"gjhg"	"hjhgj"	"jhgjhg"	"jhgjg_hjhgj_dsaf"	"dsaf"	"ghjgjhgjg"	"45"	"sdf"	\N
+"46"	"gj"	"gjg"	"gjgj"	"ghgj"	"gjgj"	"gj_ghgj_tes434"	"tes434"	"jhgjg"	"84"	"uhkk"	\N
+"47"	"khkhk"	"hkh"	"hkh"	"hkjhkh"	"khk"	"khkhk_hkjhkh_fskhd6"	"fskhd6"	"hkhkhj"	"7"	"gjg"	\N
+"48"	"thirupathi"	"India"	"chittoor"	"1-2-3-4"	"andrapradesh"	"thirupathi_1-2-3-4_testing123"	"testing123"	"asdhfkiasf"	"1"	"thirupathi"	\N
